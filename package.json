@@ -1,0 +1,44 @@
+{
+  "name": "wp-editcount-bot",
+  "version": "0.0.1",
+  "author": {
+    "name": "Valentin Berclaz",
+    "url": "http://www.valentinberclaz.com/"
+  },
+  "main": "lib/bot.js",
+  "description": "Wikipedia FR Bot that update the editcounts of users where requested",
+  "homepage": "https://github.com/ValentinBrclz/WP-EditCount-Bot",
+  "bugs": "https://github.com/ValentinBrclz/WP-EditCount-Bot/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValentinBrclz/WP-EditCount-Bot.git"
+  },
+  "license": "GPL-2.0",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "async": "^1.5.0",
+    "nodemw": "^0.8.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.8.0",
+    "vows": "^0.8.1"
+  },
+  "keywords": [
+    "wikimedia",
+    "wiki",
+    "bot",
+    "nodejs",
+    "wikipedia",
+    "editcount"
+  ],
+  "scripts": {
+    "jshint": "jshint lib/bot.js test/",
+    "test": "vows --spec"
+  },
+  "jshintConfig": {
+    "node": true,
+    "strict": true
+  }
+}
