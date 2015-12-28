@@ -14,7 +14,7 @@ _**(fr)**_ Robot de la Wikipédia francophone qui met à jour les compteurs d'é
 2. Modifier le premier paramètre avec le nombre d'édition de l'utilisateur
 
 ## Voir le robot
-Le robot fonctionne sur Wikipédia sous le nom [Compteur d'édtition (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Compteur d'édtition (bot))
+Le robot fonctionne sur Wikipédia sous le nom [Compteur d'édition (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Compteur d'édition (bot))
 
 ## License
 * License: GNU General Public Licence (2.0)
