@@ -10,12 +10,12 @@ _**(en)**_ Wikipedia FR Bot that update the editcounts of users where requested
 _**(fr)**_ Robot de la Wikipédia francophone qui met à jour les compteurs d'édition
 
 ## Fonctionnement
-1. Rechercher toutes les occurences du modèle *{{Compteur d'édition}}*
-2. Modifie le dernier paramètre avec le nombre d'édition de l'utilisateur
+1. Rechercher toutes les occurrences du modèle *{{Utilisateur:Compteur d'édition (bot)/Modèle}}*
+2. Modifier le premier paramètre avec le nombre d'édition de l'utilisateur
 
 ## Voir le robot
 Le robot fonctionne sur Wikipédia sous le nom [Compteur d'édtition (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Compteur d'édtition (bot))
 
 ## License
 * License: GNU General Public Licence (2.0)
-* Author: [Valentin Berclaz](https://github.com/ValentinBrclz)
+* Author: [Valentin Berclaz](http://www.valentinbeclaz.com/) ([GitHub Profile](https://github.com/ValentinBrclz))
