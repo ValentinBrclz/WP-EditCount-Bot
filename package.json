@@ -6,7 +6,7 @@
     "url": "http://www.valentinberclaz.com/"
   },
   "main": "lib/bot.js",
-  "description": "Wikipedia FR Bot that update the editcounts of users where requested",
+  "description": "Wikipedia FR Bot that update the current edit count of users where it is requested",
   "homepage": "https://github.com/ValentinBrclz/WP-EditCount-Bot",
   "bugs": "https://github.com/ValentinBrclz/WP-EditCount-Bot/issues",
   "repository": {

@@ -5,7 +5,7 @@ WP-EditCount-Bot
 [![devDependency Status](https://img.shields.io/david/dev/ValentinBrclz/WP-EditCount-Bot.svg?style=flat)](https://david-dm.org/ValentinBrclz/WP-EditCount-Bot#info=devDependencies)
 [![License](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat)](http://opensource.org/licenses/GPL-2.0)
 
-_**(en)**_ Wikipedia FR Bot that update the editcounts of users where requested
+_**(en)**_ Wikipedia FR Bot that update the current edit count of users where it is requested
 
 _**(fr)**_ Robot de la Wikipédia francophone qui met à jour les compteurs d'édition
 
