@@ -23,8 +23,7 @@
     "nodemw": "^0.8.0"
   },
   "devDependencies": {
-    "jshint": "^2.8.0",
-    "vows": "^0.8.1"
+    "jshint": "^2.8.0"
   },
   "keywords": [
     "wikimedia",
@@ -35,8 +34,7 @@
     "editcount"
   ],
   "scripts": {
-    "jshint": "jshint lib/bot.js test/",
-    "test": "vows --spec"
+    "jshint": "jshint lib/bot.js"
   },
   "jshintConfig": {
     "node": true,
