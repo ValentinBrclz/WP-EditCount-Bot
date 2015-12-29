@@ -13,6 +13,10 @@ _**(fr)**_ Robot de la Wikipédia francophone qui met à jour les compteurs d'é
 1. Rechercher toutes les occurrences du modèle *{{Utilisateur:Compteur d'édition (bot)/Modèle}}*
 2. Modifier le premier paramètre avec le nombre d'édition de l'utilisateur
 
+## Paramètres du modèle
+* user|utilisateur : L'utilisateur dont il faut retourner le nombre d'éditions. Défaut: utilisateur de la page courante
+* fréquence : La fréquence d'actualisation. Défaut: à chaque lancement du script
+
 ## Voir le robot
 Le robot fonctionne sur Wikipédia sous le nom [Compteur d'édition (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Compteur d'édition (bot))
 
