@@ -6,11 +6,10 @@ WP-EditCount-Bot
 [![License](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat)](http://opensource.org/licenses/GPL-2.0)
 
 _**(en)**_ Wikipedia FR Bot that update the current edit count of users where it is requested
-
-_**(fr)**_ Robot de la Wikipédia francophone qui met à jour les compteurs d'édition
+_**(fr)**_ Robot de la Wikipédia francophone qui met à jour les compteurs d'édition là cela est demandé
 
 ## Fonctionnement
-1. Rechercher toutes les occurrences du modèle *{{Utilisateur:Compteur d'édition (bot)/Modèle}}*
+1. Rechercher toutes les occurrences du modèle *{{Compteur d'édition automatique}}*
 2. Modifier le premier paramètre avec le nombre d'édition de l'utilisateur
 
 ## Paramètres du modèle
