@@ -14,8 +14,8 @@ _**(fr)**_ Robot de la Wikipédia francophone qui met à jour les compteurs d'é
 2. Modifier le premier paramètre avec le nombre d'édition de l'utilisateur
 
 ## Paramètres du modèle
-* user|utilisateur : L'utilisateur dont il faut retourner le nombre d'éditions. Défaut: utilisateur de la page courante
-* frequency|fréquence : La fréquence d'actualisation. Défaut: à chaque lancement du script
+* user / utilisateur : L'utilisateur dont il faut retourner le nombre d'éditions. Défaut: utilisateur de la page courante
+* frequency ou fréquence : La fréquence d'actualisation. Défaut: à chaque lancement du script
 
 ## Voir le robot
 Le robot fonctionne sur Wikipédia sous le nom [Compteur d'édition (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Compteur d'édition (bot))
