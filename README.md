@@ -15,7 +15,7 @@ _**(fr)**_ Robot Wikipédien qui met à jour les compteurs d'éditions dans un m
 3. Mettre à jour les données dans le modèle Lua correspondant
 
 ## Paramètres du modèle pris en compte par le bot
-* user / utilisateur : L'utilisateur dont il faut retourner le nombre d'éditions. Défaut: utilisateur de la page courante
+* *1* (facultatif) : L'utilisateur dont il faut retourner le nombre d'éditions. Défaut: utilisateur de la page courante
 
 ## Voir le robot
 Le robot fonctionne sur Wikipédia sous le nom [Compteur d'éditions (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Compteur d'éditions (bot))
