@@ -34,10 +34,22 @@
     "editcount"
   ],
   "scripts": {
-    "jshint": "jshint lib/bot.js"
+    "lint": "jshint lib/",
+    "jscs": "jscs lib/",
+    "start": "node lib/bot.js",
+    "test": "npm run-script lint && npm run-script jscs"
   },
   "jshintConfig": {
     "node": true,
     "strict": true
+  },
+  "jscsConfig": {
+    "preset": "node-style-guide",
+    "requireCurlyBraces": false,
+    "disallowMultipleVarDecl": false,
+    "maximumLineLength": 220,
+    "validateIndentation": "\t",
+    "requireTrailingComma": false,
+    "validateLineBreaks": "LF"
   }
 }
