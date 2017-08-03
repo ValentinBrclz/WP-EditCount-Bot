@@ -10,15 +10,17 @@ _**(en)**_ Wikipedia bot that updates the current editcount of users in a lua mo
 _**(fr)**_ Robot Wikipédien qui met à jour les compteurs d'éditions dans un module lua
 
 ## Fonctionnement
-1. Rechercher toutes les occurrences du modèle *{{Compteur d'éditions automatique}}*
+1. Rechercher toutes les occurrences du modèle `{{Compteur d'éditions automatique}}`
 2. Faire une liste des utilisateurs et demander à l'API le nombre d'éditions actuels pour tous
 3. Mettre à jour les données dans le modèle Lua correspondant
 
 ## Paramètres du modèle pris en compte par le bot
-* *1* (facultatif) : L'utilisateur dont il faut retourner le nombre d'éditions. Défaut: utilisateur de la page courante
+* `1` (facultatif) : L'utilisateur dont il faut retourner le nombre d'éditions. Défaut: utilisateur de la page courante
+
+Voir la [documentation du modèle](https://fr.wikipedia.org/wiki/Modèle:Compteur_d'éditions_automatique).
 
 ## Voir le robot
-Le robot fonctionne sur Wikipédia sous le nom [Compteur d'éditions (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Compteur d'éditions (bot))
+Le robot fonctionne sur Wikipédia sous le nom [Compteur d'éditions (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Compteur_d'éditions_(bot))
 
 ## License and credits
 * License: GNU General Public Licence (3.0)
