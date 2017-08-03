@@ -3,7 +3,7 @@
 git pull
 
 # Install any new package
-npm install
+npm install --production
 
 # Start with forever
-./shared/bin/node lib/bot.js
+/shared/bin/node lib/bot.js
