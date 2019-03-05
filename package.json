@@ -50,6 +50,9 @@
     "preset": "node-style-guide",
     "requireCurlyBraces": false,
     "disallowMultipleVarDecl": false,
+    "validateIndentation": {
+      "value": "\t"
+    },
     "maximumLineLength": 220,
     "requireTrailingComma": false,
     "validateLineBreaks": "LF"
