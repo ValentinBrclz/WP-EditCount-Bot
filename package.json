@@ -18,14 +18,15 @@
     "node": ">=0.6"
   },
   "dependencies": {
-    "async": "^2.0.1",
-    "escape-string-regexp": "^1.0.4",
-    "nodemw": "^0.10.1"
+    "async": "^2.6.2",
+    "escape-string-regexp": "^1.0.5",
+    "ncu": "^0.2.1",
+    "nodemw": "^0.12.2"
   },
   "devDependencies": {
-    "jscs": "^3.0.4",
-    "jshint": "^2.9.1",
-    "eslint": "^4.3.0"
+    "eslint": "^5.15.1",
+    "jscs": "^3.0.7",
+    "jshint": "^2.10.1"
   },
   "keywords": [
     "wikimedia",
@@ -50,7 +51,6 @@
     "requireCurlyBraces": false,
     "disallowMultipleVarDecl": false,
     "maximumLineLength": 220,
-    "validateIndentation": "\t",
     "requireTrailingComma": false,
     "validateLineBreaks": "LF"
   },
