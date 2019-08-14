@@ -18,15 +18,15 @@
     "node": ">=0.6"
   },
   "dependencies": {
-    "async": "^2.6.2",
-    "escape-string-regexp": "^1.0.5",
+    "async": "^3.1.0",
+    "escape-string-regexp": "^2.0.0",
     "ncu": "^0.2.1",
     "nodemw": "^0.12.2"
   },
   "devDependencies": {
-    "eslint": "^5.15.1",
+    "eslint": "^6.1.0",
     "jscs": "^3.0.7",
-    "jshint": "^2.10.1"
+    "jshint": "^2.10.2"
   },
   "keywords": [
     "wikimedia",
